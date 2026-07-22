@@ -1,1 +1,1 @@
-This folder contains the project presentation slides
+This folder contains the project weather impact analysis Presentation Slides
