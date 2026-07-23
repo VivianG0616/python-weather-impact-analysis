@@ -76,7 +76,8 @@ A sample weather dataset containing rainfall and temperature information for two
 <img width="1956" height="1420" alt="Image" src="https://github.com/user-attachments/assets/e42d2d86-a5b2-4cee-b41c-c299990194a3" />
 
    ### Screenshot 4
-     
+     <img width="1840" height="1857" alt="Image" src="https://github.com/user-attachments/assets/ded12831-6712-47a5-ae93-e7795b292bbe" />
+
 ## Author
 
 **Vivian Moyosore Gomes**
