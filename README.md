@@ -80,8 +80,7 @@ A sample weather dataset containing rainfall and temperature information for two
 
 
   ### Screenshoot 5
-  <img width="1839" height="1428" alt="Image" src="https://github.com/user-attachments/assets/41d75ea7-4b3c-419f-8e1f-be1e35fddb03" />
-      
+  <img width="1840" height="1372" alt="Image" src="https://github.com/user-attachments/assets/ff3bd1fc-7323-4734-a6e2-aac61b82a7d2" />
 
 ## Author
 
