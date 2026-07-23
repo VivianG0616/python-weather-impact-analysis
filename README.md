@@ -63,19 +63,23 @@ A sample weather dataset containing rainfall and temperature information for two
 - **Screenshots/** - Images highlighting key sections of the python code with comments.
 
   ## Python Code Snippets
-  ### Screenshot 1
+
+   ### Screenshot 1
   <img width="1940" height="1275" alt="Image" src="https://github.com/user-attachments/assets/c489a22d-af6a-45c0-8403-23bc9420863b" />
-  ### Screenshot 2
+
+   ### Screenshot 2
      <img width="1956" height="1851" alt="Image" src="https://github.com/user-attachments/assets/f27c7ada-6c4d-4d0d-9a0f-4034a4a8fc28" />
  
+
   ### Screenshot 3
       <img width="1956" height="1420" alt="Image" src="https://github.com/user-attachments/assets/e42d2d86-a5b2-4cee-b41c-c299990194a3" />
 
-  ### Screenshot 4
+
+   ### Screenshot 4
       <img width="1840" height="1857" alt="Image" src="https://github.com/user-attachments/assets/ded12831-6712-47a5-ae93-e7795b292bbe" />
 
   ### Screenshot 5
-      ![Screenshot 5] (screenshot/20260721_203806.jpg)
+      
 ## Author
 
 **Vivian Moyosore Gomes**
