@@ -57,7 +57,7 @@ A sample weather dataset containing rainfall and temperature information for two
 ## Repository Structure
 
 - **Project/** – [Weather_Impact_Analysis_System-Copy1.ipynb](https://github.com/user-attachments/files/30307420/Weather_Impact_Analysis_System-Copy1.ipynb) showing complete Python Impplementation and analysis
-- README.md - Project Overview, objectives, methdology, and findings.
+- [README.md](README.md) - Project Overview, objectives, methdology, and findings.
 - **Presentation/** – Presentation slides.
 - **Report/** – Project report and summary.
 - **Screenshots/** - Images highlighting key sections of the python code with comments.
