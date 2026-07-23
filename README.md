@@ -63,8 +63,20 @@ A sample weather dataset containing rainfall and temperature information for two
 - **Screenshots/** - Images highlighting key sections of the python code with comments.
 
   ## Python Code Snippets
-  ### 
+  ### Screenshot 1
+      ![Screenshot 1] (screenshot/20260721_203733.jpg)
 
+  ### Screenshot 2
+     ![Screenshot 2] (screenshot/20260721_202609.jpg)
+ 
+  ### Screenshot 3
+      ![Screenshot 3] (screenshot/20260721_203800.jpg)
+
+  ### Screenshot 4
+      ![Screenshot 4] (screenshot/20260721_234046.jpg)
+
+  ### Screenshot 5
+      ![Screenshot 5] (screenshot/20260721_203806.jpg)
 ## Author
 
 **Vivian Moyosore Gomes**
