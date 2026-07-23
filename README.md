@@ -64,7 +64,7 @@ A sample weather dataset containing rainfall and temperature information for two
 
   ## Python Code Snippets
   ### Screenshot 1
-      ![Screenshot 1] (screenshot/20260721_203733.jpg)
+  Screenshot/20260721_203733.jpg
 
   ### Screenshot 2
      ![Screenshot 2] (screenshot/20260721_202609.jpg)
